@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/chatAppTcp.dir/main.c.o CMakeFiles/chatAppTcp.dir/server.c.o CMakeFiles/chatAppTcp.dir/client.c.o  -o chatAppTcp 
